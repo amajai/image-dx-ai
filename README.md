@@ -154,12 +154,8 @@ image-dx-ai/
 
 ## Important Disclaimers
 
-⚠️ **MEDICAL DISCLAIMER**: This tool is for educational and informational purposes only. All analyses should be reviewed by qualified healthcare professionals. Do not make medical decisions based solely on this analysis.
-
-## API Keys Required
-
-1. **Google Gemini API**: Get from [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. **Tavily Search API**: Get from [Tavily](https://tavily.com/)
+> [!WARNING]
+> **MEDICAL DISCLAIMER**: This tool is for educational and informational purposes only. All analyses should be reviewed by qualified healthcare professionals. Do not make medical decisions based solely on this analysis.
 
 
 **Note**: This is a prototype for educational purposes. Always consult qualified healthcare professionals for medical decisions.
